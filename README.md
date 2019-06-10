@@ -28,7 +28,7 @@ All the scans are executed behind proxies and all the proxies are automatically 
 
 This tool **MUST BE RUN AS ROOT** in order to work.
 ```
-git clone https://github.com/003random/ICU  
+git clone https://github.com/thiagomayllart/ICU
 cd ICU
 source install.sh 
 ```  
